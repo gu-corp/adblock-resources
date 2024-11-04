@@ -124,5 +124,13 @@
         "title": "SugarCoat Rules",
         "format": "Standard",
         "support_url": "https://github.com/brave-experiments/sugarcoat-pipeline"
+    },
+    {
+        "uuid": "03F91310-9244-40FA-BCF6-DA31B832F34D",
+        "url": "https://filters.adtidy.org/extension/ublock/filters/7.txt",
+        "title": "Adguard Japanese filters 日本用フィルタ",
+        "desc": "Removes advertisements from Japanese websites",
+        "format": "Standard",
+        "support_url": "hhttps://github.com/AdguardTeam/AdguardFilters#adguard-filters"
     }
 ]
